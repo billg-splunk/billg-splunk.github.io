@@ -1,0 +1,4 @@
+baseURL = 'https://billg-splunk.github.io/'
+languageCode = 'en-us'
+title = "Bill Grant's Splunk Blog"
+theme = "ananke"
